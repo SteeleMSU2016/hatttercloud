@@ -1,0 +1,39 @@
+Step 5 Grading	
+
+Name:   Jason William Steele
+
+Android Version:   1.3.2
+
+When you have completed the step assignment, complete the following form and compute your assignment grade. Include this file as a text in the folder with your project when you turn it in. Enter the number of points you deserve for each grading category. You may enter partial points if you feel you have partially completed the category.
+
+Total available points:  100
+For each item, if there is a request for the file and line number, indicate that as well so the TA can verify the code.
+
+
+____5__	5 	Submitted correctly (naming, grading sheet, etc.)
+
+
+____15__	15 	Tutorial completed
+
+
+____10__	10 	Catalog item layout correct
+
+10
+______	10 	Function to get an item from the catalog adapter
+
+
+__15____	15 	Save to cloud dialog box
+
+
+____5__	10 	Saving thread
+
+
+____10__	10 	Toast if server save fails
+
+
+____25__	25 	Deletion
+
+
+___95___	Total (please add the points and include the total here)
+
+The grade you compute is the starting point for course staff, who reserve the right to change the grade if they disagree with your assessment and to deduct points for other issues they may encounter, such as errors in the submission process, naming issues, etc.
